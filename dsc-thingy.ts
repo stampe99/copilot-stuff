@@ -1,5 +1,3 @@
-// make a discord webhook which sends a message in a channel when a websites http status code is not 200 (success) or 404 (not found) 
-
 import * as Discord from "discord.js";
 import * as request from "request";
 import * as fs from "fs";
